@@ -1,0 +1,1 @@
+# MyPizzaApp This app order having menu page, order List Page for past and new orders, cart review page , SQLLite used for saving user login data , interfaces, custom button and nevigaton bar is used.
